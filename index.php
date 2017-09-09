@@ -1,0 +1,32 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<div>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+<p>pppppppppppppp</p>
+</div>
+<style>
+	p:nth-child(3n){
+		color: red;
+	}
+</style>
